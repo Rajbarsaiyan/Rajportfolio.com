@@ -12,7 +12,7 @@
     height: 100vh;
     overflow-y: auto;
     overflow-x: hidden;
-    background-image: url("images/userAsset/background image.jpeg")
+    background-color: purple;
 }
 
 .container {
